@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: addressbook-container
-          image: suhailasad/addressbook:1.2
+          image: sahas616/dockertomcat:1.2
           ports:
             - containerPort: 8080
